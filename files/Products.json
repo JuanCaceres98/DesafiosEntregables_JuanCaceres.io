@@ -1,0 +1,32 @@
+[
+	{
+		"name": "manzana",
+		"price": "210",
+		"stock": "4",
+		"id": 1
+	},
+	{
+		"name": "banana",
+		"price": "333",
+		"stock": "162",
+		"id": 2
+	},
+	{
+		"name": "uva",
+		"price": "120",
+		"stock": "89",
+		"id": 3
+	},
+	{
+		"name": "pomelo",
+		"price": "444",
+		"stock": "111",
+		"id": 4
+	},
+	{
+		"name": "manzana",
+		"price": "210",
+		"stock": "4",
+		"id": 5
+	}
+]
